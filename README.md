@@ -46,7 +46,7 @@
 ### Machine Learning and Deep Learning Projects
 | Title| Details| Year| Faculty| Team|
 |------|--------|-----|--------|-----|
-|**[Stock Price Forecasting]**
+|**[Stock Price Forecasting]**| NYSE Stock Predicting Model| 2018| Dr. Madan Gopal| [Abhinav Garg](https://in.linkedin.com/in/abhinav-garg-5a0183178), [Archit Yadav](https://in.linkedin.com/in/archit-yadav-95482b156)|
 
 
 ### Design Projects
