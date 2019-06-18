@@ -1,6 +1,3 @@
-<div style="background-color:rgba(0, 0, 0); text-align:center; vertical-align: middle; padding:70px 0; color:	rgb(255,255,255); font-size: 30px">
-<a>Anoushkrit Goel</a>
-</div>
 
 # Anoushkrit Goel
 [![Github](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)](https://github.com/anoushkrit)
