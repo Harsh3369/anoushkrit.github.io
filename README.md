@@ -38,12 +38,12 @@
 ### Machine Learning and Deep Learning Projects
 | Title| Details| Year| Faculty| Team|
 |------|--------|-----|--------|-----|
-|
+
 
 ### Design Projects
 | Title| Details| Year| Faculty| Team|
 |------|--------|-----|--------|-----|
-|
+
 
 ### Electronics Projects
 | Title| Details| Year| Faculty| Team| Report|
