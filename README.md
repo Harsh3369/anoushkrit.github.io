@@ -25,11 +25,19 @@
 ## Education
 
 | Institution| Mode| Level | Result(in CGPA/Percentage)|
-|------------|-----|-------|-------|
+|------------|-----|-------|---------------------------|
 |**[Delhi Public School Ghaziabad](http://www.dpsghaziabad.com/)**| [CBSE](https://en.wikipedia.org/wiki/Central_Board_of_Secondary_Education) |Secondary Level| 10|
 |**Delhi Public School Ghaziabad**| CBSE |Senior Secondary Level| 92.4%|
 |**[Shiv Nadar University](https://snu.edu.in/)**| B.Tech ([ECE](https://ee.snu.edu.in/undergraduate/major/btech-in-btech-in-electronics-and-communication-engineering-ece))|Undergraduate|7.6|
 |**Shiv Nadar University**| Minor: [Design](https://design.snu.edu.in)| Undergraduate| NA |
+
+## Experience
+
+| Institution| Job Role| Start Date| End Date| Months(Years)| Location|
+|------------|---------|-----------|---------|--------------|---------|
+| **[NextGen Invent Corporation](https://nextgeninvent.com/)**| Data Analyst|
+| **[xtLytics LLC](https://www.xtlytics.com/)** | Data Scientist|
+|
 
 ## Leadership Experiences
 
@@ -38,6 +46,7 @@
 ### Machine Learning and Deep Learning Projects
 | Title| Details| Year| Faculty| Team|
 |------|--------|-----|--------|-----|
+|**[Stock Price Forecasting]**
 
 
 ### Design Projects
@@ -53,10 +62,20 @@
 
 ## Courses
 
+### University Courses
+
+| Title| Faculty| Year|
+|------|--------|-----|
+|**Embedded Systems Hardware**| Prof. Ranendra Narayan Biswas| 2018|
+|**Applied Machine Learning**| Dr. Madan Gopal| 2018|
+|**
+
+### MOOCs
+
 | Title| Institution| Faculty| Platform| Certificate|
 |------|------------|---------|--------|------------|
-|**Machine Learning**| Stanford University| Andrew Ng| Coursera| Audit|
-|**Introduction to Cryptography**| Stanford University| Dan Boneh| Coursera| Audit|
+|**[Machine Learning](https://www.coursera.org/learn/machine-learning)**| Stanford University| [Andrew Ng](https://en.wikipedia.org/wiki/Andrew_Ng)| Coursera| Audit|
+|**[Cryptography 1](https://www.coursera.org/learn/crypto)**| Stanford University| [Dan Boneh](https://en.wikipedia.org/wiki/Dan_Boneh)| Coursera| Audit|
 
 
 ### Contact Me
