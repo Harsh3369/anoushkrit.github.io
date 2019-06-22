@@ -40,7 +40,7 @@
 |------------|---------|-----------|---------|--------------|---------|
 | **[NextGen Invent Corporation](https://nextgeninvent.com/)**| Data Analyst| Jan 2, 2019|Working|NA|Noida, India|
 | **[xtLytics LLC](https://www.xtlytics.com/)** | Data Scientist| Mar 1, 2019| Working| NA| Noida, India|
-|
+
 
 ## Leadership Experiences
 
@@ -58,8 +58,8 @@
 
 | Title| Details| Year| Faculty| Team|
 |------|--------|-----|--------|-----|
-|**Teresa**: Artificially Intelligent Medical Assistant| Biomedical Text Analytics tool
-|**Teresa**: Digital Auscultation Device |Predicting and annotating the Seismocardiography Database using STM32 F767ZI and Machine Learning|
+|**Teresa**: Artificially Intelligent Medical Assistant| Biomedical Text Analytics tool|  |2019  |Jitendra Prajapati| NA|
+|**Teresa**: Digital Auscultation Device |Predicting and annotating the Seismocardiography Database using STM32 F767ZI and Machine Learning| | 2018| Prof. Ranendra Narayan Biswas| Dhananjay Dutt|
 |**[Stock Price Forecasting]()**|Predicting the Stock Prices based on Machine Learning Algorithms with the help of Domain Knowledge| Feb '18| Dr. Madan Gopal| [Abhinav Garg](https://in.linkedin.com/in/abhinav-garg-5a0183178), [Archit Yadav](https://in.linkedin.com/in/archit-yadav-95482b156)|
 |**[Predictive Otology]()**| Classifying the human ear related diseases by using Machine Learning from the capture dataset (ear)|
 |**[Human Behavior Prediction]()**| Predicting Human Behavior based on their inputs and their various platforms| Ongoing| Asst. Prof. Gatha Sharma| [C.V. Hariharan](), Pratyush Dubey|
