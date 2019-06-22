@@ -66,6 +66,8 @@
 
 
 ### Design Projects
+
+
 | Title| Details| Year| Faculty| Team|
 |------|--------|-----|--------|-----|
 |Language of Color Communication| Reported the impact of color and how it communicates with the human psychology in a Research Paper| Dec '18 | Prof. Amit Ray| NA|
@@ -74,6 +76,8 @@
 
 
 ### Electronics Projects
+
+
 | Title| Details| Year| Faculty| Team| Report|
 |------|--------|-----|--------|-----|-------|
 |**Infra Data**| Transferring Data between two systems using Infrared Sensors|  | Dr. Ravikant Saini| [Abhinav Garg](https://in.linkedin.com/in/abhinav-garg-5a0183178), [Archit Yadav](https://in.linkedin.com/in/archit-yadav-95482b156)|
