@@ -24,6 +24,7 @@
 
 ## Education
 
+
 | Institution| Mode| Level | Result(in CGPA/Percentage)|
 |------------|-----|-------|---------------------------|
 |**[Shiv Nadar University](https://snu.edu.in/)**| B.Tech ([ECE](https://ee.snu.edu.in/undergraduate/major/btech-in-btech-in-electronics-and-communication-engineering-ece))|Undergraduate|7.6|
@@ -33,6 +34,8 @@
 
 ## Experience
 
+
+
 | Institution| Job Role| Start Date| End Date| Months(Years)| Location|
 |------------|---------|-----------|---------|--------------|---------|
 | **[NextGen Invent Corporation](https://nextgeninvent.com/)**| Data Analyst| Jan 2, 2019|Working|NA|Noida, India|
@@ -40,6 +43,7 @@
 |
 
 ## Leadership Experiences
+
 
 | Institution| Role | Year| Details|
 |------------|------|-----|--------|
@@ -50,6 +54,8 @@
 ## Projects
 
 ### Machine Learning and Deep Learning Projects
+
+
 | Title| Details| Year| Faculty| Team|
 |------|--------|-----|--------|-----|
 |**Teresa**: Artificially Intelligent Medical Assistant| Biomedical Text Analytics tool
@@ -88,6 +94,7 @@
 
 ### University Courses
 
+
 | Title| Faculty| Year|
 |------|--------|-----|
 |**Embedded Systems Hardware**| Prof. Ranendra Narayan Biswas| 2018|
@@ -95,6 +102,7 @@
 
 
 ### Contact Me
+
 Mobile Phone: +91-8882237267
 Mail: anoushkritgoel@gmail.com
 <p>
