@@ -105,10 +105,11 @@
 |**Applied Machine Learning**| Dr. Madan Gopal| 2018|
 
 
+
 ### Contact Me
 
-Mobile Phone: +91-8882237267
-Mail: anoushkritgoel@gmail.com
+Mobile Phone: **+91-8882237267**<br/>
+Mail: **anoushkritgoel@gmail.com**
 <p>
 <a href="https://github.com/anoushkrit">
 <img border="0" alt="Github" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="35" height="35">
